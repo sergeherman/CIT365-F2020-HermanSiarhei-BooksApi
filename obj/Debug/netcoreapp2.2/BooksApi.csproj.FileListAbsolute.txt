@@ -1,0 +1,6 @@
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\hermansp\Documents\EDU\BYU_Pathway\BYUI\2020Fall\CIT365\11\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
